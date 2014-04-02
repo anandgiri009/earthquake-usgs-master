@@ -1,0 +1,6 @@
+{
+	"host_map": [
+		"$.earthquake.usgs.gov => earthquake.usgs.gov",
+		"$.earthquake.usgs.gov => www.earthquake.usgs.gov"
+	]
+}
